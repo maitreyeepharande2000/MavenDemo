@@ -47,6 +47,13 @@
         <IncludeCallerData>true</IncludeCallerData>
         <RemoteHosts>localhost</RemoteHosts>
     </appender>
+
+    <appender name="LILITH" class="de.huxhorn.lilith.logback.appender.ClassicMultiplexSocketAppender">
+        <Compressing>true</Compressing>
+        <ReconnectionDelay>10000</ReconnectionDelay>
+        <IncludeCallerData>true</IncludeCallerData>
+        <RemoteHosts>localhost</RemoteHosts>
+    </appender>
     -->
 
 
