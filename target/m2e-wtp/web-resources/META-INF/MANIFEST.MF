@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Maitreyee
+Build-Jdk: 14.0.2
+Specification-Title: HelloWorldFirst
+Specification-Version: 1.0
+Implementation-Title: HelloWorldFirst
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.learnmaven
+Created-By: Maven Integration for Eclipse
+
